@@ -10,6 +10,7 @@ app.get('/', (req, res)=>{
 })
 
 // routes
-app.use(Campos)
+ app.use(Campos)
+
 
 export default app;
