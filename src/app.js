@@ -1,6 +1,5 @@
 
 import express from 'express';
-import controller from './controlles/index.controlles';
 import Campos from './routes/campos.routes'
 const app = express();
 
